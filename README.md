@@ -1,7 +1,7 @@
 # 🚀 Github Tools
 
 ![Preview](https://pomf2.lain.la/f/ayaazhh8.jpg)
-![Preview](https://raw.githubusercontent.com/yoshxyz/cdni/main/images/1741679343071-photo_6231095079834076127_w.jpg)
+![Preview](https://raw.githubusercontent.com/imalanaya/cdni/main/images/1741711978826-photo_6231095079834076127_w.jpg)
 
 Yo, bro! Ini dia **Github Tools Yosh**, project kece buat nge-upload sesuatu ke GitHub pake **JS**. Dibikin pake **React + Vite**, terus ada **TailwindCSS** biar tampilannya makin cakep. 🔥
 
