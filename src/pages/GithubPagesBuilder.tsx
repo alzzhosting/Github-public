@@ -3,10 +3,10 @@ import { Upload, Globe, Loader2, Timer, Check, X, FileIcon } from 'lucide-react'
 import { Octokit } from '@octokit/core';
 
 const octokit = new Octokit({
-  auth: 'Ganti Token Github Lu'
+  auth: import.meta.env.VITE_GITHUB_TOKEN_PAGES
 });
 
-const USERNAME = 'Username Github Lu';
+const USERNAME = 'Zakinael22';
 
 interface FileUpload {
   file: File;
