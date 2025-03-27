@@ -11,12 +11,12 @@ Yo, bro! Ini dia **Github Tools Yosh**, project kece buat nge-upload sesuatu ke 
 
 1. **Clone repo dulu, coy!**
    ```sh
-   git clone https://github.com/YoshCasaster/Github-Tools
+   git clone https://github.com/alzzhosting/Github-public.git
    ```
 
 2. **Masuk ke folder project**
    ```sh
-   cd Github-uploader-yosh
+   cd Github-public
    ```
 
 3. **Install semua dependency**
