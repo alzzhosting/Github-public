@@ -6,7 +6,7 @@ const octokit = new Octokit({
   auth: import.meta.env.VITE_GITHUB_TOKEN_PAGES
 });
 
-const USERNAME = 'Zakinael22';
+const USERNAME = 'alzzhosting';
 
 interface FileUpload {
   file: File;
