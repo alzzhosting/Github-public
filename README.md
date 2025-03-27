@@ -1,7 +1,7 @@
 # 🚀 Github Tools
 
 ![Preview](https://pomf2.lain.la/f/ayaazhh8.jpg)
-![Preview](https://raw.githubusercontent.com/inanyojaaaar/db_testing/main/images/1741750004848-photo_6231095079834076127_w.jpg)
+
 
 Yo, bro! Ini dia **Github Tools Yosh**, project kece buat nge-upload sesuatu ke GitHub pake **JS**. Dibikin pake **React + Vite**, terus ada **TailwindCSS** biar tampilannya makin cakep. 🔥
 
@@ -42,6 +42,9 @@ Yo, bro! Ini dia **Github Tools Yosh**, project kece buat nge-upload sesuatu ke 
 ---
 
 ## ⚙️ Konfigurasi
+
+Buat file atau ubah nama inifile.env menjadi `.env`
+Masukan Github Token Api kalian kedalam file tersebut
 
 Edit file `GithubPageBuilder.tsx` dan `ImageHosting.tsx`ubah bagian berikut:
 
